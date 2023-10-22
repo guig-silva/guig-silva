@@ -7,9 +7,6 @@
 - 🎓 &nbsp; Doutor em **Ciências** com ênfase em **Ecologia e Recursos Naturais** pela <a href="https://www.ufscar.br/">UFSCar</a>
 - 📝 &nbsp; Estudando **Ciência de Dados**
 
-
-<h2></h2>
-
 ### 💻 Habilidades
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
@@ -29,10 +26,6 @@
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=000000)
 ![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine&logoColor=478CBF)
 
-
-<h2>
-</h2>
-
 ### 📊 Stats
 
 <a href="https://github.com/Gurupreet">
@@ -44,10 +37,6 @@
 </a>
 
 <br>
-
-<h2>
-
-</h2>
 
 ### 👤 Contato
 
