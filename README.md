@@ -53,7 +53,5 @@
 
 [![Linkedin](https://img.shields.io/badge/-Guilherme_Gonzaga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guigonzaga)](https://www.linkedin.com/in/guigonzaga)
 
-[![GitHub](https://img.shields.io/github/followers/guig-silva?label=Follow&style=social)](https://github.com/guig-silva)
-
 <h2>
 </h2>
