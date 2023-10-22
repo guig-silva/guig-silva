@@ -52,6 +52,3 @@
 ### 👤 Contato
 
 [![Linkedin](https://img.shields.io/badge/-Guilherme_Gonzaga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guigonzaga)](https://www.linkedin.com/in/guigonzaga)
-
-<h2>
-</h2>
