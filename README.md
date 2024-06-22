@@ -37,7 +37,7 @@
 ![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine&logoColor=478CBF)
 ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat&logo=gimp&logoColor=5C5543)
 
-### 📊 Stats
+### 📊 Estatísticas
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guig-silva&show_icons=true&theme=synthwave&line_height=27" alt="**SEU NOME** github stats"/>
@@ -49,6 +49,6 @@
 
 <br>
 
-### 👤 Contato
+### 📧 Contato
 
 [![Linkedin](https://img.shields.io/badge/-Guilherme_Gonzaga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guigonzaga)](https://www.linkedin.com/in/guigonzaga)
