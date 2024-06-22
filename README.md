@@ -40,11 +40,7 @@
 ### 📊 Estatísticas
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=guig-silva&show_icons=true&theme=synthwave&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guig-silva&theme=synthwave&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guig-silva&theme=dracula&hide_langs_below=1" />
 </a>
 
 <br>
