@@ -2,14 +2,15 @@
 
 ### 📄 Sobre mim
 
-Sou apaixonado por tecnologia, pela conservação da natureza e por dados!
+Sou apaixonado por tecnologia, pela natureza e por dados!
 
 ### 🎓 Formação
 
+- Técnico em **Informática** pelo <a href="https://www.cps.sp.gov.br/">Centro Paula Souza</a>
 - Bacharel em **Ciências Biológicas** pela <a href="https://ufla.br/">UFLA</a>
 - Mestre em **Ecologia e Recursos Naturais** pela <a href="https://www.ufscar.br/">UFSCar</a>
-- Doutor em **Ecologia e Recursos Naturais** pela <a href="https://www.ufscar.br/">UFSCar</a>
-- Estudando **Ciência de Dados**
+- Doutor em **Ciências** pela <a href="https://www.ufscar.br/">UFSCar</a>
+- Estudando **Ciência de Dados** na <a href="https://univesp.br/">Univesp</a>
 
 ### 💻 Habilidades
 
