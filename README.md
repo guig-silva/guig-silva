@@ -41,15 +41,13 @@ Apaixonado por tecnologia, pela natureza e por dados!
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guig-silva&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guig-silva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=guig-silva&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" width="49.6%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guig-silva&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" width="49.6%" />
+</p>
+
+<br clear="both">
 
 ### 📧 Contato
 
-[![Linkedin](https://img.shields.io/badge/-Guilherme_Gonzaga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guigonzaga)](https://www.linkedin.com/in/guigonzaga)
-
-<div dir="rtl">
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=guig-silva.guig-silva&left_text=Visitantes"/>
-</div>
+[![Linkedin](https://img.shields.io/badge/-Guilherme_Gonzaga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guigonzaga)](https://www.linkedin.com/in/guigonzaga) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=guig-silva.guig-silva&left_text=Visitantes"/>
