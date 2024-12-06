@@ -34,7 +34,7 @@ Apaixonado por tecnologia, pela natureza e por dados!
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)](#)
 [![QGIS](https://img.shields.io/badge/-QGIS-333333?style=flat&logo=qgis&logoColor=589632)](#)
 [![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine&logoColor=478CBF)](#)
 [![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)](#)
@@ -45,7 +45,6 @@ Apaixonado por tecnologia, pela natureza e por dados!
   <img src="https://github-readme-stats.vercel.app/api?username=guig-silva&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" width="49.6%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guig-silva&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" width="49.6%" />
 </p>
-
 <br clear="both">
 
 ### 📧 Contato
