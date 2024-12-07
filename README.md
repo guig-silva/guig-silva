@@ -12,8 +12,8 @@ Apaixonado por tecnologia, pela natureza e por dados!
 
 ### 💻 Principais Habilidades
 
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![R](https://img.shields.io/badge/-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-333?logoColor=white)](#)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346)](#)
 [![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazonwebservices&logoColor=FF9900)](#)
