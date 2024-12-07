@@ -28,7 +28,7 @@ Apaixonado por tecnologia, pela natureza e por dados!
 [![Tableau](https://img.shields.io/badge/Tableau-032D60?style=plastic)](#)
 [![Power BI](https://img.shields.io/badge/Power%20BI-e9b51c?style=plastic)](#)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=plastic)](#)
-[![RStudio](https://img.shields.io/badge/RStudio-4d8dc9?style=plastic)](#)
+[![RStudio](https://img.shields.io/badge/RStudio-A1B7ff?style=plastic)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=plastic)](#)
 [![Git](https://img.shields.io/badge/Git-f1502f?style=plastic)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=plastic)](#)
