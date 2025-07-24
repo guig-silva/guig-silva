@@ -1,6 +1,6 @@
 <h1>Oi, aqui é o Guilherme Gonzaga :)</h1>
 
-Apaixonado por tecnologia, pela natureza e por dados!
+Apaixonado pela natureza, por tecnologia e por dados!
 
 ### 🎓 Formação
 
